@@ -25,7 +25,9 @@ Atliq Grands is a hospitality business operating hotels across multiple cities. 
 **✅ Highest Revenue City:** Mumbai (₹660.6M)
 
 **✅ Highest Occupancy Rate:** Delhi (60.4%)
+
 **✅ Weekend Occupancy:** 62.6% (higher than weekdays at 55.8%)
+
 **📌 Revenue spikes on weekends, suggesting opportunities for targeted promotions.**
 
 
