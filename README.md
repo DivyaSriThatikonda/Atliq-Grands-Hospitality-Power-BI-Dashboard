@@ -83,9 +83,13 @@ Atliq Grands is a hospitality business operating hotels across multiple cities. 
 ## 📂 Files in This Repository
 📌 AtliqGrands_PowerBI.pbix → Power BI dashboard file
 
-📌 DAX_Formulas.txt → List of all DAX measures used
+📌 dim_hotels.csv
 
-📌 Dataset.xlsx → Data used for this analysis (if shareable)
+📌 fact_bookings.csv
+
+📌 dim_rooms.csv
+
+📌 fact_aggregated_bookings.csv
 
 📌 README.md → Documentation
 
