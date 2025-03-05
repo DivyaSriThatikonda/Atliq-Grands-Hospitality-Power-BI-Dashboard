@@ -54,7 +54,7 @@ Atliq Grands is a hospitality business operating hotels across multiple cities. 
 **📌 Hotels with lower ratings tend to have higher cancellation rates, indicating a possible link between service quality and customer retention.**
 
 
-# 4️⃣ Room Category Analysis
+## 4️⃣ Room Category Analysis
 **🏨 Luxury Segment:** 61.62% of total revenue
 
 **🏨 Business Segment:** 38.38% of total revenue
